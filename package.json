@@ -2,6 +2,9 @@
   "name": "project-app",
   "version": "0.1.0",
   "private": true,
+  "engines": {
+    "node": "16.x"
+  },
   "dependencies": {
     "@hookform/resolvers": "^2.8.0",
     "@loadable/component": "^5.15.0",
@@ -53,7 +56,4 @@
       "last 1 safari version"
     ]
   }
-  "engines": {
-  "node": "16.x"
-},
 }
